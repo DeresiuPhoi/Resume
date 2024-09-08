@@ -1,0 +1,22 @@
+.menu{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 1rem;
+    background-color: #DAC0A3;
+    overflow: hidden;
+    font-size: large;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+.contact{
+    font-size: medium;
+}
+a{
+    font-size: medium;
+
+}
